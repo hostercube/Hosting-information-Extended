@@ -16,7 +16,7 @@ This WHMCS module is designed to display detailed hosting service account inform
 
 ## Preview
 
-![Service Information Preview](![image](https://github.com/user-attachments/assets/933836fe-e97a-4d0b-a086-f4f8f034b2a5)
+![Service Information Preview](![image](https://github.com/hostercube/Hosting-information-Extended/blob/main/Screenshot.png)
 )
 
 ## Installation
